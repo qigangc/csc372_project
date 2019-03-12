@@ -1,6 +1,6 @@
-book
-website
-language reference manual
-one community
-find a project which use this language
-find & install a compiler/interpreter
+book: <assembly language for x86 processors>
+website: https://www.dreamincode.net/forums/forum/112-assembly/
+language reference manual: <http://ref.x86asm.net/index.html>
+one community: stackoverflow
+find a project which use this language:  https://github.com/meihao1203/Greedy_Snake(this project using x86 to realizing "Greedy_Snake "game)
+find & install a compiler/interpreter:nasm
