@@ -1,1 +1,6 @@
-Nothing here
+book
+website
+language reference manual
+one community
+find a project which use this language
+find & install a compiler/interpreter
